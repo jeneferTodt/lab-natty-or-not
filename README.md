@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Inteligência Artificial na Gestão Financeira
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+O projeto apresenta, de forma breve e visual, como a Inteligência Artificial pode transformar a área financeira e de gestão.
+O vídeo foi criado com um avatar virtual e narração gerada por IA, destacando como a tecnologia contribui para decisões mais rápidas, seguras e baseadas em dados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Ellever – para geração de voz com entonação natural e profissional.
+HeyGen – para criação do avatar virtual e sincronização labial com o áudio.
+ChatGPT (OpenAI) – para elaboração do roteiro e ajustes de linguagem.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo iniciou com a definição do tema “IA na gestão financeira”.
+Em seguida, o roteiro foi desenvolvido no ChatGPT, com os pontos principais que repassei, ajustado para uma fala natural e clara.
+O áudio foi gerado no Ellever, utilizando voz neural em português, e depois importado no HeyGen para criar o vídeo com avatar sincronizado.
+Por fim, o resultado foi revisado e refinado para manter ritmo e naturalidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um vídeo curto e envolvente, de aproximadamente um minuto, que explica de forma simples e moderna o impacto da Inteligência Artificial na eficiência e tomada de decisão no setor financeiro.
+O uso das IAs tornou o processo ágil e profissional, sem necessidade de gravações humanas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo “natty” com IA foi um desafio interessante — equilibrar naturalidade e tecnologia exigiu ajustes no tom de voz e nas pausas do roteiro.
+A experiência mostrou que, quando bem utilizadas, as IAs não substituem a criatividade humana, mas a potencializam.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Link do video
+https://app.heygen.com/share/b8a5155af98a4c23a9c07ba860b66438
